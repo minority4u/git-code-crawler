@@ -1,4 +1,4 @@
-# github_codeCrawler
+# ggit-code-crawler
 
 Clones public repositories with a given language from pre-defined organisations.
 
